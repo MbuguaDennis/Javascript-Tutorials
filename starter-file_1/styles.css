@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding: 20px;
+    background-color: #1b1b32;
+    text-align: center;
+    color: #ffffff;
+    font-family: sans-serif;
+
+}
