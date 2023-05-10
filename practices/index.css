@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: lightgreen;
+}
+header{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+.heading, .para{
+    background-color: #1b1b32;
+    color: #ffffff;
+    border: 2px solid #fff;
+    width: 50%;
+    margin:  10px auto;
+    padding: 20px;
+    /* margin: 10px 0;    */
+
+}
+.para{
+    font-size: 1.2rem;
+    width: 40%;
+}
+
+.para:hover{
+    cursor: pointer;
+    background-color: #ffffff;
+    color: lightgreen;
+    transform: scale(1.2);
+    border: 2px solid #1b1b32;
+}
+
+.heading:hover{
+    cursor: pointer;
+    background-color: #ffffff;
+    color: lightgreen;
+    transform: scale(1.2);
+    border: 2px solid #1b1b32;
+
+}
+
+
+
