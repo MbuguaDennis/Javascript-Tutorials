@@ -6,6 +6,16 @@ const uppercaseString = (string) => {
     return string.toLowerCase()
   }
 
+export default  class User{
+    constructor(name){
+        this.name =name;
+    }
+
+    // getters
+
+}
+
+
    export const myVariable = (arr) => {
     let product =1;
     for(let i=0; i<=arr.length;i++){

@@ -1,0 +1,26 @@
+/* creating css reset  */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    background: #1b1b32;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+
+}
+
+.header{
+    text-align: center;
+    margin: 10px auto;
+    /* padding:30px 0 ; */
+
+   width: 80%;
+   border: 1px solid lightgreen;
+}
+p{
+    padding: 0.9em;
+}
